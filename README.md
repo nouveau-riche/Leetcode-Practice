@@ -1,3 +1,3 @@
 # Leetcode-Practice
 
-## My Own Leetcode Solution in C++
+### My Own Leetcode Solution in C++
